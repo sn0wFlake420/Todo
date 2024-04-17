@@ -8,7 +8,6 @@ A simple Todo app to keep your todos.
 
 ### 1. User Authentication
    - Users can create accounts and log in securely using JWT (JSON Web Tokens) for authentication.
-   - Passwords are securely hashed using bcrypt for enhanced security.
 
 ### 2. Todo
    - Users can create, view, edit and delete todos.
