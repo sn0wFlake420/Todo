@@ -89,15 +89,15 @@ Todo should now be running locally. You can access it by opening your browser an
 - Delete the todos when completed.
 
 ## Demo Pics
-
-![Blank to-do](https://github.com/sn0wFlake420/Todo/assets/90910054/057903ed-1032-483e-9c7c-991281cea4df)
-![Completed](https://github.com/sn0wFlake420/Todo/assets/90910054/2ead77a9-2cee-40e5-ae57-69fbc2adcd58)
-![Create To-do](https://github.com/sn0wFlake420/Todo/assets/90910054/7f30056b-79b7-4e67-b118-7212e6ed4796)
-![Not_Found](https://github.com/sn0wFlake420/Todo/assets/90910054/9f90a8a8-304a-41e5-98cf-499202bb361a)
-![Sign-in](https://github.com/sn0wFlake420/Todo/assets/90910054/9c78b28c-8bbf-4efb-a609-e7caefd44c50)
+Sign up page
 ![Sign-up](https://github.com/sn0wFlake420/Todo/assets/90910054/193becd1-4894-4638-96c4-e202829ee1f7)
-![Unauthenticated](https://github.com/sn0wFlake420/Todo/assets/90910054/39dec898-fcba-4656-b9cb-5186470520af)
+![Sign-in](https://github.com/sn0wFlake420/Todo/assets/90910054/9c78b28c-8bbf-4efb-a609-e7caefd44c50)
+![Blank to-do](https://github.com/sn0wFlake420/Todo/assets/90910054/057903ed-1032-483e-9c7c-991281cea4df)
+![Create To-do](https://github.com/sn0wFlake420/Todo/assets/90910054/7f30056b-79b7-4e67-b118-7212e6ed4796)
 ![Update to-do](https://github.com/sn0wFlake420/Todo/assets/90910054/4a37428c-06fe-4e3e-a966-353293a98390)
+![Completed](https://github.com/sn0wFlake420/Todo/assets/90910054/2ead77a9-2cee-40e5-ae57-69fbc2adcd58)
+![Unauthenticated](https://github.com/sn0wFlake420/Todo/assets/90910054/39dec898-fcba-4656-b9cb-5186470520af)
+![Not_Found](https://github.com/sn0wFlake420/Todo/assets/90910054/9f90a8a8-304a-41e5-98cf-499202bb361a)
 
 
 
