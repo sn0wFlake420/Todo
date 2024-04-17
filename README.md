@@ -26,7 +26,6 @@ A simple Todo app to keep your todos.
   - Postgres: A SQL database for storing user details and todo.
   - Prisma: ORM for interacting with the database.
  
-  - 
 ### Installation
 
 Follow these steps to set up the WordWiz project locally:
