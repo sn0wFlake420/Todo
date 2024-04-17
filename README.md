@@ -40,8 +40,13 @@ Follow these steps to set up the WordWiz project locally:
    ```
    cd Todo
    ```
+   
+3. Create a `.env` file in the `server` directory and configure your environment variables:
 
-3. Install server dependencies:
+   ```
+   DATABASE_URL=your-postgres-connection-string
+   ```
+4. Install server dependencies:
 
    ```
    cd server
@@ -51,18 +56,13 @@ Follow these steps to set up the WordWiz project locally:
    node dist/index.js
    ```
 
-4. Install client dependencies:
+5. Install client dependencies:
 
    ```
    cd ../client
    npm i
    ```
 
-5. Create a `.env` file in the `server` directory and configure your environment variables:
-
-   ```
-   DATABASE_URL=your-postgres-connection-string
-   ```
 
 6. Start the server:
 
@@ -78,7 +78,7 @@ Follow these steps to set up the WordWiz project locally:
    npm run dev
    ```
 
-Todo should now be running locally. You can access it by opening your browser and navigating to `http://localhost:3000`.
+Todo should now be running locally. You can access it by opening your browser and navigating to `http://localhost:5173`.
 
 ## Usage
 
