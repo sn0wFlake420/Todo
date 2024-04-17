@@ -89,14 +89,28 @@ Todo should now be running locally. You can access it by opening your browser an
 - Delete the todos when completed.
 
 ## Demo Pics
-Sign up page
+Sign-Up Page
 ![Sign-up](https://github.com/sn0wFlake420/Todo/assets/90910054/193becd1-4894-4638-96c4-e202829ee1f7)
+
+Sign-In Page
 ![Sign-in](https://github.com/sn0wFlake420/Todo/assets/90910054/9c78b28c-8bbf-4efb-a609-e7caefd44c50)
+
+Blank To-do
 ![Blank to-do](https://github.com/sn0wFlake420/Todo/assets/90910054/057903ed-1032-483e-9c7c-991281cea4df)
+
+Create New To-do
 ![Create To-do](https://github.com/sn0wFlake420/Todo/assets/90910054/7f30056b-79b7-4e67-b118-7212e6ed4796)
+
+Update To-do
 ![Update to-do](https://github.com/sn0wFlake420/Todo/assets/90910054/4a37428c-06fe-4e3e-a966-353293a98390)
+
+Clear Completed To-do
 ![Completed](https://github.com/sn0wFlake420/Todo/assets/90910054/2ead77a9-2cee-40e5-ae57-69fbc2adcd58)
+
+Unauthenticated Activity
 ![Unauthenticated](https://github.com/sn0wFlake420/Todo/assets/90910054/39dec898-fcba-4656-b9cb-5186470520af)
+
+Page Not Found
 ![Not_Found](https://github.com/sn0wFlake420/Todo/assets/90910054/9f90a8a8-304a-41e5-98cf-499202bb361a)
 
 
