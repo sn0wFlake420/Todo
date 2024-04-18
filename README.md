@@ -27,7 +27,7 @@ A simple Todo app to keep your todos.
  
 ### Installation
 
-Follow these steps to set up the WordWiz project locally:
+Follow these steps to set up the ToDo project locally:
 
 1. Clone the repository to your local machine:
 
